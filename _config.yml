@@ -5,7 +5,7 @@ url: "http://www.your-domain.com" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
+  title: Brian Moore # Your name will go here
   description: "A personal portfolio and blog website" # used by search engines
 
   # Header and footer text
@@ -18,20 +18,20 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: bjm8498@gmail.com
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  github: bjm8498
   google_plus:
   instagram:
-  linkedin:  # Full URL
+  linkedin:  linkedin.com/in/brian-moore-2829b496
   pinterest:
   reddit:
   soundcloud:
-  stack_exchange:  # Full URL
+  stack_exchange: <a href="http://stackexchange.com/users/8507235/brian-moore"><img src="http://stackexchange.com/users/flair/8507235.png" width="208" height="58" alt="profile for Brian Moore on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Brian Moore on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
   steam:
   tumblr:
   twitter:
