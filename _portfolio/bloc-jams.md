@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc Jams
-thumbnail: 
+thumbnail: "img/bloc_jams_logo.png"
 short-description:  Bloc Jams is a replica of spotify allowing users to play their own custom made song lists.
 
 ---
